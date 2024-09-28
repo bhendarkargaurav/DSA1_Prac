@@ -9,12 +9,12 @@ function moveZeros(arr) {
         }
     }
 
-    while(index < arr.length) {
-        arr[index] = 0;
-        index++;
-    }
+    // Fill the remaining positions with zeros
+  for (let i = index; i < arr.length; i++) {
+    arr[i] = 0;
+  }
 
-    return arr;
+  return arr;
 }
 
 

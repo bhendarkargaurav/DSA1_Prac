@@ -23,3 +23,13 @@
 //   }
 // } 
 
+
+
+function doReverse (arr) {
+     return arr.reverse();
+}
+
+let inputArr = [1, 2, 3, 4, 5, 6];
+let reversedArr = doReverse(inputArr);
+console.log(reversedArr);
+

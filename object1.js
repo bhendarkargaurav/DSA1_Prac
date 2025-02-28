@@ -18,5 +18,9 @@ const bmwcar = {
     comfourt : "good"
 }
 
-console.log("thre is the feature of BMW", bmwcar);
-console.log("about the colour of bmw is", bmwcar.colour);
+
+// console.log("thre is the feature of BMW", bmwcar);
+// console.log("about the colour of bmw is", bmwcar.colour);
+// =======
+// console.log("there is the feature of BMW", bmwcar);
+// console.log("about the colour of bmw is", bmwcar.colour);

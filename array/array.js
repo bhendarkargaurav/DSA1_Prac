@@ -9,7 +9,7 @@
 
 
 
-  appying 10% discound on price
+  // appying 10% discound on price
 const arr = [290, 500, 230,499, 322];
 for (let i=0; i<arr.length; i++) {
   console.log("original price is", arr[i]);

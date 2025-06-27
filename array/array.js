@@ -9,18 +9,6 @@
 
 
 
-  // appying 10% discound on price
-const arr = [290, 500, 230,499, 322];
-for (let i=0; i<arr.length; i++) {
-  console.log("original price is", arr[i]);
-  let offer = arr[i] /10;
-  console.log("10% offer on product is", offer);
-  let priceafterdis = arr[i] - offer;
-  console.log("final price after offer", priceafterdis);
-}
-console.log("done");
-
-
 // const cars = [];
 //     cars[0] = "lambo",
 //     cars[1] = "farari",
@@ -47,3 +35,31 @@ console.log("done");
 //   }
 //   console.log(myObj);
 
+// let array = [1000, 2000, 3000, 4000];
+// for(let i=0; i<array.length; i++){
+//   console.log("origial value", array[i]);
+//   let offer = array[i]/10;
+//   console.log("offer ammount", offer);
+
+//   let discound = array[i]-offer;
+//   console.log("final value after discound", discound);
+// }
+
+
+
+// let arr = [1, 2, 3, 4, 5];
+// let sum = 0;
+// for(let ele of arr) {
+//   sum = sum + ele;
+// }
+// console.log("sum of number is", sum);
+
+
+
+
+
+let arr = [1,2,3,4,5];
+let sum = 0;
+for(let i=0; i<arr.length; i++) {
+  console.log(arr[i]);
+}

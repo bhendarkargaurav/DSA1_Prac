@@ -47,19 +47,9 @@
 
 
 
-// let arr = [1, 2, 3, 4, 5];
-// let sum = 0;
-// for(let ele of arr) {
-//   sum = sum + ele;
-// }
-// console.log("sum of number is", sum);
-
-
-
-
-
-let arr = [1,2,3,4,5];
+let arr = [1, 2, 3, 4, 5];
 let sum = 0;
-for(let i=0; i<arr.length; i++) {
-  console.log(arr[i]);
+for(let ele of arr) {
+  sum = sum + ele;
 }
+console.log("sum of number is", sum);

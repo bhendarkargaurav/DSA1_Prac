@@ -5,3 +5,5 @@
 
 ### DSA take time so do put time, 
 if you invest today yoy will get the result tommorow..
+
+# nevwr give up
